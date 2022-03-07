@@ -1,0 +1,9 @@
+[Unit]
+Description=Restart every 2 hours
+
+[Timer]
+OnUnitActiveSec=2h
+
+[Install]
+WantedBy=timers.target
+

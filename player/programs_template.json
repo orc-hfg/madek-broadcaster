@@ -1,0 +1,22 @@
+{
+	"programs": [
+		{
+			"name": "name",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": null,
+				"public_get_full_size": null,
+				"me_get_metadata_and_previews": "true",
+				"me_get_full_size": null,
+				"filter_by": null,
+				"collection_id": null
+			},
+			"meta_data": [
+				"madek_core:title",
+				"madek_core:keywords"
+			],
+			"limit": 5,
+			"limit_selection": null
+		}
+	]
+}

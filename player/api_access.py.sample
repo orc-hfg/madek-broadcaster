@@ -1,0 +1,3 @@
+api_user = 'username'
+api_pass = 'password'
+api_server = 'https://medienarchiv.zhdk.ch'

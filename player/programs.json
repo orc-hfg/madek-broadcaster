@@ -1,0 +1,938 @@
+{
+	"programs": [
+		{
+			"name": "Schlagwort Theater",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "d7b20e04-ce56-4cee-bb17-bee2feed65f5"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Scientific Visualization",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "958ea5b3-f4bf-4aed-84c3-f0238d60f75f"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Fotografie",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "90ea1417-d67b-40d3-8925-6b3693744a53"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich MIZ Archiv",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "5fe10e9e-ee0b-4b23-9690-f739c32aa01f"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Hochschulkommunikation",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "7011f6e8-040a-40fc-b710-f22634873e94"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Mediale Künste",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "b53276d8-1acd-41fd-8068-1fc3a3cce7f7"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Industrial Design",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "865f08be-6ace-4ca7-b020-9adab4c666ec"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Musik",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "8619b069-672e-4a76-a663-0fe0cec49cd5"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Theater Szenografie",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "88b1999c-efb9-49fc-9993-4bbbc4659298"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Kulturanalysen & Vermittlung",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "eb27ba23-aec2-4d1d-8b09-2a5423c194db"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Bachelor Design",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "47149534-6b91-459d-a182-f2d6ece98c43"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Fachrichtung Film",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "7c0e42a7-f19f-4bde-97dc-9dd2966f7fd6"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Style & Design",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "eef0dfa5-2f6a-4843-b1ee-329be61334d5"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Bereich Master Theater",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:institutional_affiliation",
+							"value": "cf390e43-1106-4371-909b-d5b85f55e63c"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Typ Abschlussarbeit",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "1ecab382-d875-45c2-aeef-4420b702ec69"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Typ im Studienverlauf entstanden",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "5a3b06d4-98f0-4812-9fec-ef4ca12a4e84"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Typ Dokumentation",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "bac7d9ed-02c0-47e1-a960-c23d704b3af4"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Typ Ausstellung",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "f6c8d3e1-8896-4776-b7e3-7cba9e989d88"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Typ Aufführung",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "181771fa-7a0c-442d-a998-8130ecdf46d5"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Typ Forschung",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "592a91ed-8981-4753-a841-ec6d135cdd43"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Typ Unterrichtssituation",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "a736f812-ad2d-45e6-a17e-38f570bae5d2"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Schlagwort Toni-Areal",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "471d4ddb-c40d-4de6-9183-1024049b1899"
+						}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Installation",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "8c1664d3-1b86-493e-b848-b22c1a7ec820"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Landschaft",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "72553b77-7112-4001-8d40-642a344f6c40"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Zoologie",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "ab9a61d3-aca6-4ee7-b4d8-9028cf9f1888"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Studienreise",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "34bdcff8-9e09-4fed-be75-1a108444eb90"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Workshop",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "da4d820a-f6b9-4f08-9751-54f82cec7efe"
+						}
+					]
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Schlagwort Skizze",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "99d96fb7-d8fa-4c27-b2d5-db767fb632ea"
+						}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Filmset",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "ebe28a70-a73f-4628-b069-a57d692c5c95"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Rekonstruktion",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "4dfa0640-542a-4d40-8267-40d8092ff8ca"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Holz",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "171e7ede-de73-4d3d-af8d-4855ef891379"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Suche test",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"search": "test"
+				}
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Forschung Film",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "zhdk_bereich:project_type",
+							"value": "592a91ed-8981-4753-a841-ec6d135cdd43"
+						},
+						{
+							"key": "media_content:type",
+							"value": "c31e836b-ccd0-42a2-b5dc-290342d3703e"
+						}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Neue Inhalte",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true"
+			},
+			"limit": 20,
+			"limit_selection": 40
+		},
+		{
+			"name": "Schlagwort Graffiti",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+							"key": "madek_core:keywords",
+							"value": "9bd2abb1-efdf-469d-8bb7-743842e0204b"
+    					}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort import|export",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "c2f70efb-5354-4ffe-81db-e873c3cecd9d"
+    					}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Zufall",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "f69c7777-5f67-43f7-b01a-20fc0d97b870"
+    					}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 20
+		},
+		{
+			"name": "Schlagwort Bauphase",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "262157c2-3f9b-45f2-910b-5c2b93fa0ec7"
+    					}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Stütze",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "cbe9542b-3019-4cb3-84d7-6de52449bb06"
+    					}
+					]
+				}
+			},
+			"limit": 10,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Software",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "db21bc40-1709-4dd7-a7a5-76c96b319bd1"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Menschenbild",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "19032465-93a7-4c49-9e47-95cbb0a9c081"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Medizin",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "75d986db-44b8-4dc1-8240-3388815fc338"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Delhi",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "7de4f314-9352-4c89-aa33-2ca76680bc63"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Ausstellungsarchitektur",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "499d40a9-0a19-4b14-acea-d7c4438835fd"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Praktikum",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "e424de1b-c497-4fcf-b4c7-95334a933152"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Theater in allen Räumen",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "cc39e6da-9d1c-40e6-8510-7decab3acfc9"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Natur",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "4b45b102-a649-4de0-a82c-809ba6dd635d"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Experiment",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "e53fbc27-7e7a-49f8-8903-c7217d875a8c"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Botanik",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "a1075492-396e-4bfc-9d78-cb614db0c527"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Material/Format/Sprache 3D-Rendering",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "media_content:portrayed_object_materials",
+      						"value": "29275c5a-f2ec-40e5-8db2-254fb871f01f"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Material/Format/Sprache Bleistift auf Papier",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "media_content:portrayed_object_materials",
+      						"value": "340ddd0d-d1bf-42e0-9c6d-19a88f93160c"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Botanik, Aquarell auf Papier",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "media_content:portrayed_object_materials",
+							"value": "14d272fe-dda9-40e4-9e41-9155a07c9223"
+    					},
+    					{
+      						"key": "madek_core:keywords",
+							"value": "a1075492-396e-4bfc-9d78-cb614db0c527"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Design Skizze",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+						  "key": "media_content:type",
+						  "value": "c87159bb-acbe-435a-bfe4-57cd4e82acfd"
+						},
+						{
+						  "key": "madek_core:keywords",
+						  "value": "99d96fb7-d8fa-4c27-b2d5-db767fb632ea"
+						}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Schlagwort Additive Farbmischung",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "madek_core:keywords",
+      						"value": "050b1948-27aa-4c9a-add3-338ed31365c3"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		},
+		{
+			"name": "Kunstgattung/Disziplin Kunstvermittlung",
+			"parameters": {
+				"order": "desc",
+				"public_get_metadata_and_previews": "true",
+				"filter_by": {
+					"meta_data": [
+						{
+      						"key": "media_content:type",
+      						"value": "6ec1a06f-51fe-441c-ad01-56897eb143df"
+    					}
+					]
+				}
+			},
+			"limit": 15,
+			"limit_selection": 30
+		}
+	]
+}

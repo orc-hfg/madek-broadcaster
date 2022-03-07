@@ -1,0 +1,13 @@
+[Unit]
+Description=Sender Medienarchiv
+
+[Service]
+Type=simple
+User=itz
+Environment="DISPLAY=:0"
+Environment="XAUTHORITY=/home/msh/.Xauthority"
+ExecStart=/home/itz/madek-broadcaster/service/start.sh
+Restart=always
+
+[Install]
+WantedBy=graphical.target
